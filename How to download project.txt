@@ -1,0 +1,37 @@
+=== Cara download file unity digithub yang menggunakan git LFS. ===
+GitHub membatasi commit/upload file sebesar 100mb, untuk itu digunakanlah git LFS.
+file unity yang telah diupload digithub dengan git LFS terkadang tidak akan bisa di download 
+menggunakan download as ZIP dan ketika di download menggunakan download as ZIP menyebabkan 
+banyak objek unity tampak transparan dan muncul banyak error.
+
+maka untuk mengatasi permasalahan tersebut, salah satu alternative adalah dengan menggunakan git clone :
+# alat dan bahan :
+- git 
+- git LFS
+
+# langkah - langkah :
+- install git LFS dan git, jika sudah maka lanjut langkah dibawah ini 
+- buat folder 
+  misal berada pada directory : C:\Unity\example
+- klik kanan dan pilih "open git bash here"
+- git lfs install
+- git clone <URL repositori Anda> 
+  contoh : git clone https://github.com/teguh-Dito/MazeDFS
+  setelah terdownload, masuk kedalam folder MazeDFS
+- cd MazeDFS
+- git lfs pull
+
+# Note : 
+penjelasan lebih lanjut : https://sl.bing.net/duOQCOtLHb2
+penjelasan langkah-langkah lebih lanjut : https://sl.bing.net/h5kSW7NeVMG 
+
+# Untuk Mac OS : 
+Buka terminal 
+Install GIT 	: brew install git 
+Install Git LFS : brew install git-lfs
+- git lfs install
+- git clone <URL repositori Anda> 
+  contoh : git clone https://github.com/teguh-Dito/MazeDFS
+  setelah terdownload, masuk kedalam folder MazeDFS
+- cd MazeDFS
+- git lfs pull

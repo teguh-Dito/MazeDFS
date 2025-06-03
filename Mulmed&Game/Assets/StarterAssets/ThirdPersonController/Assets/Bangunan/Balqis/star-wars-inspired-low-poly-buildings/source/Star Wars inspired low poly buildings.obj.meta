@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 99e5971a4d9dfcc43b9c6eb099cf2e4e
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building10_building10_buildingMat
+    second: {fileID: 2100000, guid: 6ea81cd568aba2849b1b29cbf89bc13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building11_building11_buildingMat
+    second: {fileID: 2100000, guid: aa932e1e5492b2a478dbd3ed679f8e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building12_building12_buildingMat
+    second: {fileID: 2100000, guid: fd321c6734fce6d4d8c6cacb088b1388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building13_building13_buildingMat
+    second: {fileID: 2100000, guid: fb9cc4302ea99e640a6ecd80880a8230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building14_building14_buildingMat
+    second: {fileID: 2100000, guid: 5564f62b0c585fa4d943915d317332a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building15_building15_buildingMat
+    second: {fileID: 2100000, guid: 1fc76f59d12c98341be1628855966966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building16_building16_buildingMat
+    second: {fileID: 2100000, guid: be84a0b2889332d44a20e864b5821e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building17_building17_buildingMat
+    second: {fileID: 2100000, guid: eac82fa051d4e0743861bb77e88bddc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building18_building18_buildingMat
+    second: {fileID: 2100000, guid: f83366ff5b9b9174a980472d3a457985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building19_building19_buildingMat
+    second: {fileID: 2100000, guid: b5898b8b3f640e145ae610fe95d4abd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building1_building1_buildingMat
+    second: {fileID: 2100000, guid: 616c6a4424c17f944a85752376da036b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building20_building20_buildingMat
+    second: {fileID: 2100000, guid: a943f2e295c3113418ad3f70b9b54120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building21_building21_buildingMat
+    second: {fileID: 2100000, guid: 91631a29e8aa26a4c8d23b4fd0f028ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building22_building22_buildingMat
+    second: {fileID: 2100000, guid: 34f08d9a687443c49b87b6f4c870419b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building23_building23_buildingMat
+    second: {fileID: 2100000, guid: b0424741c032caf4ab3b2e07b862751e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building24_building24_buildingMat
+    second: {fileID: 2100000, guid: 0cd8a3ec05ea8b34ebd44d3b52aa655a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building25_building25_buildingMat
+    second: {fileID: 2100000, guid: d8453d819066b7f4cb3b725adb3a4f3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building26_building26_buildingMat
+    second: {fileID: 2100000, guid: a10ca9c9e78c7044ab63dedf07df2b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building27_building27_buildingMat
+    second: {fileID: 2100000, guid: 46b80072cdae9e547b5bb2a5fac8cf6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building28_building28_buildingMat
+    second: {fileID: 2100000, guid: 64490491211193c4388189aaa372f6b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building29_building29_buildingMat
+    second: {fileID: 2100000, guid: 29bd6b99b0870f849afecd09235554f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building2_building2_buildingMat
+    second: {fileID: 2100000, guid: dcfb2383fbd7ddd48b229def59316ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building30_building30_buildingMat
+    second: {fileID: 2100000, guid: d0e392c28cc0ca748a22e1c262798187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building31_building31_buildingMat
+    second: {fileID: 2100000, guid: 9638b7454a23a4746838c1856c7f1fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building32_building32_buildingMat
+    second: {fileID: 2100000, guid: 5d57b6d5b4babdc4dbaa922ed76b367d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building33_building33_buildingMat
+    second: {fileID: 2100000, guid: e90262c47688e2a459fd4b75800dda03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building34_building34_buildingMat
+    second: {fileID: 2100000, guid: 06a0b485068057945b26b7006f94f881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building35_building35_buildingMat
+    second: {fileID: 2100000, guid: 42fcb6e6479c12f4296cdd850bbdccb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building3_building3_buildingMat
+    second: {fileID: 2100000, guid: 8520b85a4edb8754aa245c51cedf4d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building4_building4_buildingMat
+    second: {fileID: 2100000, guid: dfef07743c22b3d48a0cdcb3e0532549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building5_building5_buildingMat
+    second: {fileID: 2100000, guid: 983131c9b5450be4e9868b850bb90ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building6_building6_buildingMat
+    second: {fileID: 2100000, guid: 8824c5ed4987d704d813d9c07b161d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building7_building7_buildingMat
+    second: {fileID: 2100000, guid: bcc9ca0ecb7c87c4d82c928db87640b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building8_building8_buildingMat
+    second: {fileID: 2100000, guid: 88c1afdd0cd4c7e41b1b27e7a9a7435d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building9_building9_buildingMat
+    second: {fileID: 2100000, guid: 9fdbd2fc66ebab44a9345414421c33c8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

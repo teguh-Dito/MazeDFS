@@ -1,0 +1,17 @@
+1. Player Logic and Enemy Logic
+2. Maze Generation 
+- DFS
+- Ada Room
+- > 1 Enemy
+3. User Interface 
+- Main Menu UI (Start Game, About, Setting, Quit)
+- Gameplay UI (Mission Complete & Game Over)
+- Pause UI (Optional)
+4. Game Loop 
+Main Menu > GamePlay > Game Project > (Retry, Main Menu, Quit Game, Next Level(Optional))
+5. Story, Game Feel, Etc
+- Narasi, StoryGame.
+- Tutorial
+- SFX, VFX
+- Polishing
+6. Project Wajib dibuild (Untuk UAS)
