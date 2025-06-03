@@ -1,0 +1,1 @@
+extractor.exe "D:\3. Tugas dan Referensi Kuliah\SEMESTER 5\9. Multimedia & Game Practicum\Modul 3\Main Character.unitypackage" "D:\3. Tugas dan Referensi Kuliah\SEMESTER 5\9. Multimedia & Game Practicum\Modul 3"

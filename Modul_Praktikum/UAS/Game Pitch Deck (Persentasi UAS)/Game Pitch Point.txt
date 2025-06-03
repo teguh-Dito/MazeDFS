@@ -1,0 +1,19 @@
+1. Title
+- Game Title/Visual/logo
+- Logline or Tagline
+
+2. Development Team
+- Name & expertise.
+
+3. Introduction
+- Brief introduction to the pitch
+- Highlight the core concept of the game
+
+4. Game Overview
+- Genre, platform & target audience
+
+5. Core Experience
+- Setting and story synopsis
+- Core GameLoop
+- Gameplay mechanics
+- Art style and aesthetic
